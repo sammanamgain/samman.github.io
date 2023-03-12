@@ -1,0 +1,14 @@
+.line{
+	margin: auto;
+	background-color: darkred;
+	width: 100%;
+	height: 5px;
+	border-style: dotted ;
+	text-align: center;
+}
+  .avatar {
+    border-radius: 100;
+    width: 10px;
+    height: 100px;
+    overflow: hidden;
+  }
